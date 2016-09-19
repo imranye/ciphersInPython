@@ -1,7 +1,7 @@
 #imran muthuvappa
 #reverse cipher
 #based on http://inventwithpython.com/hacking
-
+#Just doing the excersizes the way I would
 
 def encode(message, x, encoded):
     while x >= 0:
@@ -11,10 +11,10 @@ def encode(message, x, encoded):
 
 
 def main():
-    message = 'Super secret club meets on wednesday'
+    message = raw_input('Enter message to be encoded:  ')
     encoded = ''
     x = len(message) - 1
-    print(encode(message, x, encoded))
+    print('your encoded message is  ' + encode(message, x, encoded))
 
 
 main()
