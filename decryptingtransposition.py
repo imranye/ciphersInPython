@@ -11,3 +11,4 @@ def decrypt(key, message):
         plaintext[col] += symbol
         col += 1
         if (col == columns) or (col == columns - 1 and row >= rows - ShadedBoxes):
+            
