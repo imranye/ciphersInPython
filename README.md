@@ -1,6 +1,6 @@
-# # Ciphers in Python!
+#Ciphers in Python!
 
-In attempting to leanr more about encryption, I am challenging myself to codevarious cyphers, as well as break them!
+In attempting to learn more about encryption, I am challenging myself to codevarious cyphers, as well as break them!
 
 ## Want to contribute? 
 
