@@ -17,5 +17,4 @@ def main():
     print(swapCase(s))
 
 
-
 main()
